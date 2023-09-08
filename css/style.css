@@ -474,3 +474,21 @@
 .footer .copyright a {
     color: var(--light);
 }
+
+.navbar-brand {
+    background-color: rgb(26, 74, 141) !important;
+}
+
+.navbar-brand img {
+    width: 150px;
+}
+
+.border-primary {
+    border-color: rgb(26, 74, 141) !important;
+}
+
+.btn-primary {
+    background-color: rgb(227, 172, 20) !important;
+    border-color: rgb(227, 172, 20) !important;
+    color: #000 !important;
+}
