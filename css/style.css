@@ -880,3 +880,7 @@ body {
 .nav__phone:hover{
     opacity: .6;
 }
+
+.container-xxl{
+    max-width: 1000px;
+}
